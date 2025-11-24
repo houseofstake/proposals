@@ -12,7 +12,7 @@ created: 2025-11-19
 
 ## Abstract
 
-NEAR Protocol has been invited to join the UN Blockchain Council. This proposal requests House of Stake to accept this membership on behalf of the NEAR ecosystem and appoint representatives (Gustav Friis and Peter Humaidan from NEARWEEK) to actively participate in UN workshops, technical advisory roles, and thought leadership activities. The desired outcome is establishing NEAR's presence alongside major protocols in shaping global blockchain standards for UN agencies and government initiatives.
+NEAR Protocol has been invited to join the UN Blockchain Council. This proposal requests House of Stake Foundation to accept this membership on behalf of the NEAR ecosystem and appoint representatives (Gustav Friis and Peter Humaidan from NEARWEEK) to actively participate in UN workshops, technical advisory roles, and thought leadership activities. The desired outcome is establishing NEAR's presence alongside major protocols in shaping global blockchain standards for UN agencies and government initiatives.
 
 ## Context & Alignment
 
@@ -122,7 +122,7 @@ NEAR Protocol has been invited to join the UN Blockchain Council. This proposal 
 
 **Membership Structure:**
 
-* Legal Entity: House of Stake (representing NEAR Protocol ecosystem)
+* Legal Entity: House of Stake Foundation (representing NEAR Protocol ecosystem)
 * Primary Representatives (Year 1): Gustav Friis (NEARWEEK, gus@nearweek.com) and Peter Humaidan (NEARWEEK, p3ter@nearweek.com)
 * Representative Responsibilities: Active participation in UN Blockchain Council workshops and quarterly meetings, technical advisory support for UN hackathons and developer programs, contribution to standards development for blockchain integration across UN agencies, thought leadership through speaking engagements and social media presence, collaboration with other council members on cross-chain initiatives for SDG impact, and quarterly reporting to House of Stake governance
 * Governance Oversight: House of Stake retains authority to replace representatives, quarterly performance reviews against defined KPIs, annual renewal decision based on demonstrated value, and transition to House of Stake-appointed representatives in Year 2
