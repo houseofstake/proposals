@@ -1,0 +1,206 @@
+---
+hsp: TBA
+title: Mission, Vision & Values (MVV)
+description: Agree on the North Star to guide all of NEAR House of Stake's activities
+author: Hack Humanity (@HackHumanity)
+discussions-to: https://gov.near.org/t/hsp-xxx-house-of-stake-mission-vision-values/41806
+status: Last Call
+type: Sensing
+category: Legitimacy & Engagement
+created: 2025-11-21
+requires: No dependencies
+---
+
+## Abstract
+This proposal seeks to put in place a ratified Mission, Vision & Values (MVV) to serve as our North Star, guiding all of NEAR House of Stake's activities:
+* A **Vision** that is a powerful and motivating articulation of the future we are creating.
+* A **Mission** that guides concrete and directed activity towards that vision.
+* And a set of **Values** that give us detailed guiding principles to stay on course as we all continue to build and learn.
+
+## Mission Vision Values Policy
+    
+### VISION:
+> Decentralised governance for the user-owned Internet and humanity-enhancing AI.
+
+### MISSION:
+
+> To establish an evolving governance system,
+> that is incorruptible, uncapturable and sovereign by default,
+> co-created, co-governed and co-operated
+> by an AI-augmented NEAR stakeholder community.
+
+### VALUES:
+
+> 1. Credible Neutrality
+> 2. Experimentation with Safety
+> 3. Builder and Business Centric
+> 4. Autonomy with Accountability
+> 5. Adaptive Governance
+> 6. Meaningful Participation
+> 7. Transparency with Dignity
+> 8. AI-Augmented, Human-Governed
+> 9. Public Goods as Growth Engines
+> 10. Cultural Stickiness
+
+<details>
+<summary>Principles and behavioural tests behind the values</summary>    
+
+#### `1. Credible Neutrality`
+**Principle:** Governance must be built by, with and for the community, augmented by community-aligned AI that enhances transparency, intelligence and fairness, ensuring freedom from control and capture by individuals, institutions, or closed groups.
+
+***Behavioral Test:** Does this action avoid risks of concentrating power e.g. protecting against a few top stakeholders gaining overbearing control over the rest of the community?*
+
+#### `2. Experimentation with Safety`
+**Principle:** Governance models, funding mechanisms, and AI agents and tools are tested, via rapid prototyping and iteration, in lower-stakes environments before being merged into the main system.
+
+***Behavioral Test:** What's the worst that could happen if an experiment we are trying fails? Can it do so without risk of endangering the overall ecosystem’s health and integrity?*
+
+#### `3. Builder and Business Centric`
+**Principle:** Governance must create the conditions for both individual developers *and* institutions to thrive — from the developer experience to enterprise-scale adoption. This includes funding the infrastructure, tools, and programs that make NEAR the most attractive platform for adoption that scales.
+
+***Behavioral Test:** Does this decision improve NEAR as a place where developers, entrepreneurs, and enterprises can build great products and lasting businesses?*
+
+#### `4. Autonomy with Accountability`
+**Principle:** Workstreams and contributors have freedom to innovate, balanced with clear success gates and measurable outcomes. Community-governed mechanisms should be in place for setting and regularly reviewing these objectives, in a fair and transparent way, keeping human and AI activity oriented towards our mission.
+
+***Behavioral Test:** Does this program have both the freedom to act and clear metrics to evaluate success?*
+
+#### `5. Adaptive Governance`
+**Principle:** Governance should evolve iteratively, guided by feedback loops and data-driven continuous learning systems that sense and respond to changing ecosystem needs and emerging opportunities.
+
+***Behavioral Test:** Is there a mechanism to review and adapt this process if it no longer serves the ecosystem?*
+
+#### `6. Inclusive & Meaningful Participation`
+**Principle:** All stakeholders — large and small — must have meaningful ways to engage in governance. Decision-making influence may be proportional to stake, and our governance system must also provide opportunities for all community members to contribute, keeping people engaged and invested.
+
+***Behavioral Test:** Are we creating real roles for all interested community members to contribute value, even if they don’t have significant stake-weighted voting power?*
+
+#### `7. Transparency with Dignity` 
+**Principle:** Decisions, funding, and performance are open and legible, while respecting privacy and personal boundaries.
+
+***Behavioral Test:** Can this be shared with the community to enhance collective intelligence, without compromising anyone's right to privacy?*
+
+#### `8. AI-Augmented, Human-Governed`
+**Principle:** We embrace AI as a tool for fair, representative, efficient, and adaptive governance at scale. AI agents can be core participants in our governance processes. We build such agents in a decentralised, open-source and permissionless way, requiring that they operate transparently and in adherance with all of our values, so they can act as neutral, community-aligned governance participants.
+
+***Behavioral Test:** Does this use of AI improve fairness, participation, efficiency or collective intelligence, while reinforcing our values and providing sufficient transparency and oversight for humans in the loop?*
+
+
+#### `9. Public Goods as Growth Engines`
+**Principle:** We invest in shared infrastructure, tools, and governance systems, building out a data-driven governance layer for the use of humans an AI, as a powerful enabler of compounding network effects.
+
+***Behavioral Test:** Will this investment increase the resilience, long-term potential and growth of the ecosystem beyond one project or cycle?*
+
+
+#### `10. Cultural Stickiness`
+**Principle:** The DAO cultivates rituals, norms, and shared ownership that build loyalty across diverse participants.
+
+***Behavioral Test:** Does this initiative make contributors more likely to identify with NEAR and remain engaged long-term?*
+</details>
+    
+
+## Context & Alignment
+
+This Mission, Vision & Values (v0.2.0) proposed above was Co-Created with the Community in October 2025, as documented in the [Open Community Feedback Cycle Report](https://gov.near.org/t/near-house-of-stake-mission-vision-values-mvv-draft-for-community-review/41659/24#p-140198-open-community-feedback-cycle-report-1), including a [Community Co-Creation workshop](https://gov.near.org/t/near-house-of-stake-mission-vision-values-mvv-draft-for-community-review/41659/22).
+
+This process built upon workshops with endorsed delegates in June 2025 and [synthesised context](https://gov.near.org/t/near-house-of-stake-mission-vision-values-mvv-draft-for-community-review/41659#p-139706-addendum-drafting-methodology-47) from the evolution of NEAR's Mission/Vision/Values (2019–2024).
+
+
+## Situation
+
+We are currently in Phase One (Assembly) of the [Governance Transition Program](https://gov.near.org/t/near-house-of-stake-governance-transition-program/41673) to progressively decentralize House of Stake.
+
+A significant risk of decentralization is that different contributors, coming from a broad diversity of backgrounds and perspectives, might have very different ideas of the direction we should be going in. This can lead to lack of clarity of how to contribute, disparate initiatives heading in opposing or contradictory directions and necessity for excessive levels of re-work.
+
+To progress with legitimacy to Phase Two (Alignment), a ratified Mission, Vision & Values, co-created by and for the community, will align the activities of all House of Stake contributors, so that effort, attention and resources are focused on complementary and reinforcing initiatives that maximise our momentum and progress towards shared goals.
+
+This should be flexible enough to create space for different ways of thinking to achieve those goals, and foster innovative approaches, realizing the full potential of the diverse set of stakeholders in the House of Stake community.
+
+## Purpose
+
+**Objective:** A broadly-supported Mission, Vision & Values, ratified on-chain, that motivates passionate, purposeful and aligned activity from all stakeholders contributing to House of Stake.
+
+**Expected Outcomes:**
+
+1. MVV helps motivate and create clear opportunities for a growing number of existing and new contributors to meaningfully contribute to House of Stake.
+2. MVV alignment is used as one of a number of key criteria for assessing new proposals e.g. by the Screening Committee, by delegates, and by AI tools and agents, including the [Proposal Dashboard](https://neargov.ai) and [Delegate Agent](https://gov.near.org/t/ai-governance-product-roadmap/41683#p-139817-represent-delegate-agent-q1-2026-2).
+3. Clarity of direction aligns activity, resulting in a high proportion of proposals being successful and a high rate of those proposals achieving their objectives.
+
+
+## Approach 
+
+We have used a participatory design methodology known as [Co-Creation Cycles](https://gov.near.org/t/near-house-of-stake-co-creation-cycle-a-process-to-build-legitimacy/41605) to engage the community in crafting and refining the Mission, Vision & Values, taking it from v0.1.1 to v0.2.0.
+
+Running this process during October 2025, with contributions via the Forum and a Co-Creation workshop, we gathered and responded to 33 individual points of feedback.
+
+Key themes that were surfaced included:
+
+1. **Broad support for the overall direction and purpose**, including the Vision statement.
+2. Stakeholders who consistently emphasized **AI augmentation of human governance**, rather than autonomy-replacing AI.
+3. Strong desire to inclusively articulate who participates in and benefits engagement in House of Stake with healthy debate around terms including **users, owners, stakeholders and community**.
+
+In response, the MVV text was updated to:
+
+1. **Emphasize community-centricity**, including recognising the role of the full range of stakeholders in governance.
+2. **Reframe AI as augmentative**, governed by humans to ensure alignment with community values.
+3. **Elaborate on the values** to expand upon important details.
+
+**What are the risks and limitations?**
+
+Not all stakeholder groups participated in the co-creation process, which creates a risk of incomplete representation of perspectives. While the Sensing Proposal cannot fully resolve this limitation, it will validate broader support, gather critical signals from the community, and identify any elements that may require clarification before moving to final ratification.
+
+
+## Implementation
+
+Once ratified, implementation of the Mission, Vision, Values is quite straightforward:
+
+1. Update the [Mission, Vision, and Values page on the House of Stake website](https://houseofstake.org/docs/overview/mission-vision-values) with the agreed text, clarifying that this has been ratified.
+2. Work with House of Stake Product teams to integrate the agreed MVV into products, tooling and AI agents.
+3. Over time, we could also create additional materials and run interactive sessions to introduce new and existing contributors to the MVV in thoughtful and engaging ways to embed these into the community ethos.
+
+
+## Backwards Compatibility
+
+1. This MVV aligns with and refines the [Interim MVV v0.1.2 currently on the web site](https://houseofstake.org/docs/overview/mission-vision-values), as of 20th November, 2025.
+2. This MVV aligns with and adds greater depth and clarity to the [House of Stake Mandate](https://gov.near.org/t/house-of-stake-mandate/41652), which is included in [the Interim Constitution](https://gov.near.org/t/near-house-of-stake-interim-constitution/41686#p-139825-article-2-mandate-10).
+3. This MVV aligns with and complements the Values & Standards in the proposed [House of Stake Code of Conduct](https://gov.near.org/t/hsp-xxx-house-of-stake-code-of-conduct/41805).
+
+
+## Milestones
+
+| Milestone | Target Date | Deliverable |
+|-----------|-------------|-------------|
+| Successful Sensing Proposal | Q4 2025 | At least 1K veNEAR of votes, with >50% voting "For", and clear and actionable comments to address any significant outstanding concerns. |
+| Successful Decision Proposal | Q4 2025 | Quorum of at least 1K veNEAR of votes achieved and proposal passes with a simple majority of votes cast. |
+| MVV implemented | Q1 2026 | All steps listed in Implementation taken. |
+
+## Budget & Resources
+
+| Item           | Amount |
+|----------------|--------|
+| **Total**      |  0 Ⓝ  |
+
+Implementation will be carried out by @HackHumanity, under contract with NEAR Foundation.
+
+This proposal does not request any additional budget or resources for its implementation, beyond what has already been agreed under the terms of that contract.
+
+
+## Team & Accountability
+- **Responsible:** @HackHumanity
+- **Accountable to:** House of Stake, HoS Head of Governance, NEAR Foundation
+
+## Security Considerations
+
+No security risks have been identified associated with this proposal.
+
+
+## Conflict of Interest
+
+The authors of this proposal work for @HackHumanity, which is under contract with and being paid by NEAR Foundation, including for the implementation of this proposal.
+
+Hack Humanity's engagement is aligned with and includes facilitation of the [Governance Transition Program](https://gov.near.org/t/near-house-of-stake-governance-transition-program/41673), therefore this does not represent a Conflict of Interest.
+
+
+## Copyright
+
+Copyright and related rights waived via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
