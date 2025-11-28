@@ -11,33 +11,33 @@ created: 2025-11-21
 requires: HSP-001
 ---
 
-## Abstract
+## Abstract  
 
-This proposal aims to sense community approval before a ratification vote for the NEAR's House of Stake Code of Conduct, resulting from Co-Creation cycle 1.
+This proposal aims to sense community approval before a ratification vote for the NEAR's House of Stake Code of Conduct, resulting from Co-Creation cycle 1.  
 
-**House of Stake Code of Conduct**
-* Version: v1.0
-* Audience: NEAR Community
-* Archive: [Version.0.1.0](https://gov.near.org/t/near-house-of-stake-code-of-conduct-coc-draft-for-community-review/41606)
+**House of Stake Code of Conduct**  
+Version: v1.0  
+Audience: NEAR Community  
+Archive: [Version.0.1.0](https://gov.near.org/t/near-house-of-stake-code-of-conduct-coc-draft-for-community-review/41606)  
 
-## Code of Conduct Policy
+## Code of Conduct Policy  
 
 <details>
-<summary>Code of Conduct v1.0 </summary>
+<summary>Code of Conduct</summary>
 
-### 1. Our Pledge
-1.1 We, as members, contributors, delegates, moderators, stewards, and other participants of the House of Stake (HoS), pledge to create a governance environment where participation is safe, inclusive, and transparent.
+### 1. Our Pledge  
+1.1 We, as members, contributors, delegates, moderators, stewards, and other participants of the House of Stake (HoS), pledge to create a governance environment where participation is safe, inclusive, and transparent.  
 
-**1.2 Commitments:**
+**1.2 Commitments:**  
 1.2.1 Act with professionalism, integrity, and respect in all spaces.  
 1.2.2 Align behavior with NEAR’s long-term interests and ecosystem health.  
 1.2.3 Protect privacy, safety, and data integrity.  
 1.2.4 Use technology, including AI, in an ethical, transparent, and accountable way.  
 
-**1.3 Applicability:**
+**1.3 Applicability:**  
 1.3.1 This pledge applies to on-chain decisions, off-chain forums, events, and public representation of HoS.  
 
-### 2. Purpose & Scope
+### 2. Purpose & Scope  
 **2.1 Purpose:**  
 2.1.1 Ensure a healthy culture of productive participation in achieving House of Stake’s Mission.  
 
@@ -208,13 +208,13 @@ Moderators will exercise judgement on the level of remedies based on intent, imp
 
 **9.6 Good Practice Example:**  
 A sanctioned member submits new logs that change the assessment; sanction reduced.  
-Evidence shared is objective and within scope. (logs, screenshots, transaction records).  
+Evidence shared is objective and within scope. (logs, screenshots, transaction records)  
 
 **9.7 Bad Practice Example:**  
 Multiple frivolous appeals filed to delay enforcement.  
-Evidence shared is out of scope or subjective. (Behavior signaled is outside of HoS, biased claims, faulty evidence).  
+Evidence shared is out of scope or subjective. (Behavior signaled is outside of HoS, biased claims, faulty evidence)  
 
-### 10. Risk Disclosures & Limitations  
+### 10. Risk Disclosures & Limitations
 10.1 Enforcement capacity depends on moderator resources and jurisdictional constraints.  
 10.2 On-chain actions may be irreversible; remedies cannot fully counteract immutability.  
 10.3 This CoC complements applicable law; it does not replace legal rights or obligations.  
@@ -229,54 +229,58 @@ Evidence shared is out of scope or subjective. (Behavior signaled is outside of 
 11.5 Oversight to all governance actors should be done by responsible bodies ensuring accountability and checks and balances. This is done working in sync with all HoS institutions and ruling documents.  
 11.6 NEAR Foundation is accountable for moderation of its ecosystem’s platforms, including the House of Stake’s.  
 
-### 12. Contact & Amendments  
+### 12. Contact & Amendments
 12.1 Contact: info@houseofstake.org.  
 12.2 Amendments: updates follow a public notice and versioning process with a “Last Updated” date.  
 12.3 Effective Date: this CoC takes effect upon community ratification and remains in force until amended.  
-12.4 A minimum public comment period of 7 days is required prior to version adoption of this document, based on Art.6.1.1 of the interim constitution.  
+12.4 A minimum public comment period of 7 days is required prior to version adoption of this document, based on Art. 6.1.1 of the interim constitution.  
 
 ### END OF CODE OF CONDUCT POLICY V0.2.0  
 
     
 </details>
 
-## Context & Process
+## Context & Alignment
 
-* [[**HSP‑001**](https://github.com/houseofstake/proposals/blob/main/HSPs/hsp-001.md)] defines Sensing as the way to gauge community sentiment prior to binding action; this proposal aims to confirm readiness to ratify the interim CoC.  
+* [[**HSP‑001**](https://github.com/houseofstake/proposals/blob/main/HSPs/hsp-001.md)] defines Sensing as the way to gauge community sentiment prior to binding action; this proposal aims to confirm readiness to ratify the interim CoC.
 * The CoC v0.2 specifies reporting channels (confidential form, email), moderation standards (impartiality, documentation, competence, human‑overseen AI), appeals timelines, auditable logging, and a minimum 7‑day public comment period for future versions, as well as proposed next steps for operationalization.  
 
 
 ## Situation
 
-**- What problem are we solving?**  
+**- What problem are we solving?**
 
 **Enabling Immediate Governance:** This version brings up an initial set of guidelines and approaches that once ratified, establish legitimate rules and boundaries for human behavior in NEAR's House of Stake. Providing a “good‑enough” baseline that can be adopted and tested for future updates and complimentary proposals.  
 
-**- What happens if we don't address it?**  
+**- What happens if we don't address it?**
 
 The House of Stake Community and its Moderators won’t have the tools to actually take care of the health of the social layer. HoS needs predictable norms to reduce friction and increase legitimacy. Waiting for a “perfect” policy risks more disorder than adopting a good baseline and improving it with evidence gathered from real use.  
 
 If we do nothing. Ad‑hoc moderation persists; incident handling is inconsistent; coordination costs and reputational/legal risks rise; and legitimacy and participation suffer.  
 
-## Purpose
+## Mission  
 
-Ensure a healthy culture of productive participation in achieving House of Stake's Mission.  
+Ensure a healthy culture of productive participation in achieving House of Stake's Mission, Vission & Values.  
 
-## Approach 
+**Objectives:** Enabling specific rule testing: This vote is a prior step ahead of a formal ratification vote, that would legitimate a first version (V1.0.0) of NEAR’s House of Stake Code of Conduct.  
+
+**Outcomes:** Clearly defining rules and boundaries: Establishing legitimate shared agreements for interacting and managing conduct of agents inside NEAR’s House of Stake.  
+
+## Approach  
 
 A Code of Conduct should be voted on and approved by the community before May 31st, 2026. Which is the ratification deadline for the interim policy set.  
 
-**What strategy will we use?**
+**What strategy will we use?**  
 If this sensing proposal approved, the next step would be a ratification vote.  
 
-**What are the risks and limitations?**
+**What are the risks and limitations?**  
 The risks of not having a Code of Conduct ratified in the community is delaying the development of this, and further foundational policies needed for House of Stake planned functioning and modular evolution.  
 
-## Technical Specification
+## Technical Specification  
 
 Once ratified, this Code of Conduct will be stored in [House of Stake documentation](https://houseofstake.org/docs/structure/code-of-conduct), taking effect and remaining in force until amended.  
 
-## Backwards Compatibility
+## Backwards Compatibility  
 
 Although no protocol or contract changes and no on‑chain parameters are affected. **It is important to note the compatibility with foundational governance assets -such as the Constitution & policy Charters**.  
 
@@ -317,52 +321,53 @@ As a final remark on backwards compatibility, this CoC builds on NEAR Foundation
 
 No funding is requested in this Sensing HSP. If the interim ratification proceeds, follow‑up proposals may request resources to operate reporting, moderation, appeals, transparency, and education.  
 
-## Implementation 
+## Implementation  
 
-**Contact and intake**
+**Contact and intake**  
 
 * Confidential CoC reporting form on the official House of Stake website with anonymous option, clear privacy notice, and attachment support.  
-* Email: activate [info@houseofstake.org](mailto:info@houseofstake.org)  
+* Email: activate [info@houseofstake.org](mailto:info@houseofstake.org).  
 * Replace the draft CoC in [House of Stake documentation](https://houseofstake.org/docs/structure/code-of-conduct) with the ratified version.  
-* Add links to the Code of Conduct to House of Stake telegram group, House of Stake Forum, gov.houseofstake.org voting platform, and community calls as agreements for participation.
+* Add links to the Code of Conduct to House of Stake telegram group, House of Stake Forum, gov.houseofstake.org voting platform, and community calls as agreements for participation.  
 
-**Moderation and appeals**
+**Moderation and appeals**  
 
 * Independent body of **at least 3 members** with rotation and recusal rules. To be developed post ratification.  
 
-**AI assistance**
+**AI assistance**  
 
 * Testing AI-powered tooling in development, for case management and moderation.  
 
-**Feedback collection**
+**Feedback collection**  
 
 *  After implementation, Continuous feedback will be collected by Hack Humanity through workshops, forms, and analysis of governance performance, to update the CoC (when and if needed).  
 
-**Data protection**
+**Data protection**  
 
 * Data logging and confidentiality from case summaries; strict access controls.  
 
-## Team & Accountability
+## Team & Accountability  
 
-- **Responsible:** To set up, develop & monitor: @HackHumanity — service provider hired by NEAR Foundation. To avoid conflicts of interest, **no Hack Humanity members will participate in moderation or appeals.**  
+- **Responsible:** To set up, develop & monitor: @HackHumanity — service provider hired by NEAR Foundation. To avoid conflicts of interest, **no Hack Humanity members will participate in moderation or appeals**.  
 - **Accountable to:** Near Foundation, House of Stake, Screening Committee, Head of Governance.  
 
 
-## Security Considerations
+## Security Considerations  
 
 What are the security implications of this proposal?  
 * **Privacy preserving.** A risk is that the authorized body to review cases fails to preserve privacy, strategic confidentiality, and due diligence for cases managed. To mitigate that risk, roles must be made accountable.  
 * **AI black box and hallucination.** Humans have final authority, and all AI‑assisted steps must be auditable for appeals.  
 
 
-## Conflict of Interest
+## Conflict of Interest  
 
 The proposer has read and agrees to the CoC. **Hack Humanity is a hired service provider** and will **not** serve in moderation or appeals.  
 
-## Copyright
+## Copyright  
 
 Copyright and related rights waived via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).  
 
 ## Authorship & Acknowledgements  
+
 **Authored by:** @humbertobesso and @juankbell from @HackHumanity  
 **Review and feedback from:** @klausbrave, @disruptionjoe, @dancunningham, @haenko, @lane, @AK_HoG  
