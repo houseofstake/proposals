@@ -1,7 +1,7 @@
 ---
 hsp: TBA
 title: House of Stake - Mission, Vision & Values (MVV)
-description: Agree on the North Star to guide all of NEAR House of Stake's activities
+description: Agree on the Mission, Vision & Values (MVV) to guide all of NEAR House of Stake's activities
 author: Hack Humanity (@HackHumanity)
 discussions-to: https://gov.near.org/t/hsp-xxx-house-of-stake-mission-vision-values/41806
 status: Voting
@@ -12,7 +12,7 @@ requires: No dependencies
 ---
 
 ## Abstract
-This proposal seeks to put in place a ratified Mission, Vision & Values (MVV) to serve as our North Star, guiding all of NEAR House of Stake's activities:
+This proposal seeks to put in place ratified Mission, Vision & Values (MVV), guiding all of NEAR House of Stake's activities:
 * A **Vision** that is a powerful and motivating articulation of the future we are creating.
 * A **Mission** that guides concrete and directed activity towards that vision.
 * And a set of **Values** that give us detailed guiding principles to stay on course as we all continue to build and learn.
