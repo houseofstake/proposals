@@ -1,10 +1,10 @@
 ---
-hsp: <TBD>
+hsp: 008
 title: NEAR House of Stake Constitution
 description: Establishes the governance framework of the NEAR House of Stake
 author: Hack Humanity
 discussions-to: <forum URL>
-status: Draft
+status: Review
 track: Decision
 type: Supermajority
 category: Legitimacy & Engagement
