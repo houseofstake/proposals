@@ -1,10 +1,10 @@
 ---
-hsp: <TBD>
+hsp: 010
 title: NEAR House of Stake Screening Committee Charter
 description: Establishes mandate and structure for the Screening Committee
 author: Hack Humanity
 discussions-to: https://gov.near.org/t/hsp-xxx-near-house-of-stake-screening-committee-charter/42020
-status: Draft
+status: Review
 track: Decision
 type: Supermajority
 category: Legitimacy & Engagement
