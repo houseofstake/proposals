@@ -1,10 +1,10 @@
 ---
-hsp: TBD  
+hsp: 012  
 title: NEAR House of Stake Conflict of Interest Policy 
 description: Establishes principles for identifying, disclosing and managing conflicts of interest  
 author: Hack Humanity  
 discussions-to: https://gov.near.org/t/hsp-xxx-near-house-of-stake-conflict-of-interest-policy/42055
-status: Draft  
+status: Review 
 track: Decision  
 type: Supermajority  
 category: Legitimacy & Engagement  
@@ -221,4 +221,4 @@ Copyright and related rights waived via [CC0 1.0](https://creativecommons.org/pu
 ## **Authorship & Acknowledgment**
 
 **Authored by:** @danrandow and @klausbrave from @HackHumanity  
- **Review and feedback from:** @haenko, @humbertobosso, @juanbell, @AK\_HoG, and Bianca Guimaraes (NF Legal)
+**Review and feedback from:** @haenko, @humbertobosso, @juanbell, @AK\_HoG, and Bianca Guimaraes (NF Legal)
