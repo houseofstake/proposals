@@ -1,11 +1,11 @@
 ---
 
-hsp: <tbd>
+hsp: 011
 title: NEAR House of Stake Mission Vision Values>
 description: Agree on the Mission, Vision & Values (MVV) to guide all of NEAR House of Stake’s activities
 author: Hack Humanity
 discussions-to: https://gov.near.org/t/hsp-xxx-near-house-of-stake-mission-vision-values/42052
-status: Draft
+status: Review
 track: Decision
 type: Supermajority
 category: Legitimacy & Engagement
