@@ -1,10 +1,10 @@
 ---
-hsp: <TBD>
+hsp: 009
 title: NEAR House of Stake Proposals and Voting Procedures
 description: Establishes clear procedures for collective decision-making in the House of Stake
 author: Hack Humanity
 discussions-to: https://gov.near.org/t/hsp-xxx-near-house-of-stake-proposals-and-voting-procedures/42019
-status: Draft
+status: Review
 track: Decision
 type: Supermajority
 category: Legitimacy & Engagement
@@ -279,7 +279,7 @@ The author(s) must state that they've read and agree with the House of Stake Con
 
 ## Copyright  
 Copyright and related rights waived via CC0 1.0.
-
+```
 ## **Article 7 - Proposal Lifecycle**
 
 The proposal lifecycle consists of six stages:
@@ -316,7 +316,7 @@ The proposal lifecycle consists of six stages:
 
 7.1.6 **Special cases**. Three special cases are handled as follows:
 
-7.1.6.1 When the HSP Author does not reply to the reviews given by the HSP Editor or the Screening Committee within six months, proposals become eligible for a vote. In this case, the HSP Editor updates the proposal Frontmatter status to `Stagnant`, and the author can resurrect it by moving it back to `Draft` at any time.
+7.1.6.1 When the HSP Author does not reply to the reviews given by the HSP Editor or the Screening Committee within six months, proposals become ineligible for a vote. In this case, the HSP Editor updates the proposal Frontmatter status to `Stagnant`, and the author can resurrect it by moving it back to `Draft` at any time.
 
 7.1.6.2 When the HSP Author withdraws the proposal before being voted on, the HSP editor updates the proposal status attribute to `Withdrawn`.
 
@@ -370,7 +370,6 @@ The proposal lifecycle consists of six stages:
 
 7.6.3 Implementation timelines are indicative only and may be adjusted or delayed based on legal, operational, technical, or resource constraints without creating liability or obligation.
 
-```
 
 ## END OF THE NEAR HOUSE OF STAKE PROPOSALS AND VOTING PROCEDURES
 </details>
