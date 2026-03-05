@@ -3,7 +3,7 @@ hsp: 008
 title: NEAR House of Stake Constitution
 description: Establishes the governance framework of the NEAR House of Stake
 author: Hack Humanity
-discussions-to: <forum URL>
+discussions-to: https://gov.near.org/t/hsp-xxx-near-house-of-stake-constitution/42018
 status: Review
 track: Decision
 type: Supermajority
@@ -94,7 +94,7 @@ P.3.1 Capitalized terms used in this Constitution but not otherwise defined here
 
 3.1.1.1 NEAR House of Stake Stakeholders refers to any individual, collective, or legal entity that either contributes value, work, or capital to the NEAR ecosystem, or has an interest in, or may be affected by, the outcomes, decisions, or operations thereof (“**Stakeholders**”).
 
-3.1.2.1 Stakeholder status, by itself, does not confer governance participation rights or decision-making authority within the NEAR House of Stake. However, Stakeholders may raise concerns related to governance matters and may request that such concerns be recorded transparently, in accordance with the processes and limitations defined in the applicable House of Stake Constitutional Documents.
+3.1.1.2 Stakeholder status, by itself, does not confer governance participation rights or decision-making authority within the NEAR House of Stake. However, Stakeholders may raise concerns related to governance matters and may request that such concerns be recorded transparently, in accordance with the processes and limitations defined in the applicable House of Stake Constitutional Documents.
 
 3.1.2 **Tokenholders**
 
