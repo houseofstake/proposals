@@ -46,37 +46,37 @@ The expected outcome of ratifying this Code of Conduct is a predictable, transpa
 
 2.1 All Stakeholders are expected to act in good faith and with honest intent when engaging in NEAR House of Stake activities. They should:
 
-2.1.2 Treat others with professionalism, dignity, and respect, including during disagreement or dispute.
+2.1.1 Treat others with professionalism, dignity, and respect, including during disagreement or dispute.
 
-2.1.3 Engage constructively in governance discussions and decision-making processes.
+2.1.2 Engage constructively in governance discussions and decision-making processes.
 
-2.1.4 Communicate clearly, responsibly, and without intent to mislead.
+2.1.3 Communicate clearly, responsibly, and without intent to mislead.
 
-2.1.5 Respect the privacy, safety, and personal boundaries of others.
+2.1.4 Respect the privacy, safety, and personal boundaries of others.
 
-2.1.6 Follow established governance processes and respect finalized governance outcomes.
+2.1.5 Follow established governance processes and respect finalized governance outcomes.
 
-2.1.7 Avoid behavior that undermines trust, safety, or the integrity of governance.
+2.1.6 Avoid behavior that undermines trust, safety, or the integrity of governance.
 
-2.1.8 Disclose conflicts of interest following the assessment outlined in the Conflict of Interest Policy.
+2.1.7 Disclose conflicts of interest following the assessment outlined in the Conflict of Interest Policy.
 
 ## **Article 3\. Additional Expectations for Governance-Related Roles**
 
 3.1 Governance Body Members, Endorsed Delegates, Moderators, HSP Authors and other governance-related roles are held to a higher standard due to their influence and responsibilities within the NEAR House of Stake. They shall:
 
-3.1.2 Exercise due care and diligence when advising, voting, or allocating resources.
+3.1.1 Exercise due care and diligence when advising, voting, or allocating resources.
 
-3.1.3 Disclose conflicts of interest fully, accurately, and in a timely manner, in accordance with the Conflict of Interest Policy.
+3.1.2 Disclose conflicts of interest fully, accurately, and in a timely manner, in accordance with the Conflict of Interest Policy.
 
-3.1.4 Represent their authority, mandate, endorsement status, or decision-making power according to Foundation Legal Documents and House of Stake Constitutional Documents.
+3.1.3 Represent their authority, mandate, endorsement status, or decision-making power according to Foundation Legal Documents and House of Stake Constitutional Documents.
 
-3.1.5 Provide clear and honest rationales for governance decisions where reasonably expected.
+3.1.4 Provide clear and honest rationales for governance decisions where reasonably expected.
 
-3.1.6 Act as stewards of the long-term interests of the NEAR ecosystem.
+3.1.5 Act as stewards of the long-term interests of the NEAR ecosystem.
 
-3.1.7 Use privileged access, information, or influence responsibly and in good faith.
+3.1.6 Use privileged access, information, or influence responsibly and in good faith.
 
-3.1.8 Process Stakeholder feedback without ad hominem criteria, meaning feedback is taken by what is being communicated, and not by who is communicating it.
+3.1.7 Process Stakeholder feedback without ad hominem criteria, meaning feedback is taken by what is being communicated, and not by who is communicating it.
 
 ## **Article 4\. Prohibited Conduct**
 
