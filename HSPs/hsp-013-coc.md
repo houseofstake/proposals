@@ -3,10 +3,10 @@ hsp: 013
 title: NEAR House of Stake Code of Conduct
 description: Establishes standards for behavior within House of Stake
 author: Hack Humanity
-discussions-to: https://gov.near.org/t/hsp-xxx-near-house-of-stake-code-of-conduct/42050
+discussions-to: https://gov.near.org/t/hsp-013-near-house-of-stake-code-of-conduct/42050
 status: Review
 track: Decision
-type: Supermajority
+type: Simple majority
 category: Legitimacy & Engagement
 stakeholders: See section "Stakeholders"
 created: 2026-02-16
