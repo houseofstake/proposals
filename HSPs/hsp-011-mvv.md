@@ -5,7 +5,7 @@ title: NEAR House of Stake Mission Vision Values
 description: Agree on the Mission, Vision & Values (MVV) to guide all of NEAR House of Stake’s activities
 author: Hack Humanity
 discussions-to: https://gov.near.org/t/hsp-011-near-house-of-stake-mission-vision-values/42052
-status: Review
+status: Voting
 track: Decision
 type: Simple majority
 category: Legitimacy & Engagement
