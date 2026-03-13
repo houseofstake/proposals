@@ -4,7 +4,7 @@ title: NEAR House of Stake Screening Committee Charter
 description: Establishes mandate and structure for the Screening Committee
 author: Hack Humanity
 discussions-to: https://gov.near.org/t/hsp-010-near-house-of-stake-screening-committee-charter/42020
-status: Review
+status: Voting
 track: Decision
 type: Simple majority
 category: Legitimacy & Engagement
