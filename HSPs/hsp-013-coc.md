@@ -4,7 +4,7 @@ title: NEAR House of Stake Code of Conduct
 description: Establishes standards for behavior within House of Stake
 author: Hack Humanity
 discussions-to: https://gov.near.org/t/hsp-013-near-house-of-stake-code-of-conduct/42050
-status: Review
+status: Voting
 track: Decision
 type: Simple majority
 category: Legitimacy & Engagement
