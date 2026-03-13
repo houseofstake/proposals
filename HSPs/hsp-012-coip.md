@@ -4,7 +4,7 @@ title: NEAR House of Stake Conflict of Interest Policy
 description: Establishes principles for identifying, disclosing and managing conflicts of interest  
 author: Hack Humanity  
 discussions-to: https://gov.near.org/t/hsp-012-near-house-of-stake-conflict-of-interest-policy/42055
-status: Review 
+status: Voting
 track: Decision  
 type: Simple majority  
 category: Legitimacy & Engagement  
