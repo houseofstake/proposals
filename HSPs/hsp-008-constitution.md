@@ -4,7 +4,7 @@ title: NEAR House of Stake Constitution
 description: Establishes the governance framework of the NEAR House of Stake
 author: Hack Humanity
 discussions-to: https://gov.near.org/t/hsp-008-near-house-of-stake-constitution/42018
-status: Review
+status: Voting
 track: Decision
 type: Simple majority
 category: Legitimacy & Engagement
