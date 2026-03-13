@@ -4,7 +4,7 @@ title: NEAR House of Stake Proposals and Voting Procedures
 description: Establishes clear procedures for collective decision-making in the House of Stake
 author: Hack Humanity
 discussions-to: https://gov.near.org/t/hsp-009-near-house-of-stake-proposals-and-voting-procedures/42019
-status: Review
+status: Voting
 track: Decision
 type: Simple majority
 category: Legitimacy & Engagement
